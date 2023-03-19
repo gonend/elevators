@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(188, 187, 187);
+}
+
+.box {
+  background-color: rgb(242, 230, 230);
+  padding: 20px;
+  border-radius: 5px;
+  width: max-content;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+  background-color: #fff;
+}
+h1 {
+  text-align: center;
+}
+button {
+  align-items: center;
+  justify-content: center;
+}

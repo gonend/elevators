@@ -1,0 +1,42 @@
+.building__container {
+  display: flex;
+  margin-top: 3%;
+  margin-left: 5%;
+  background-color: aliceblue;
+  width: 80%;
+  height: 80%;
+}
+table {
+  border-bottom: 1px solid lightgray;
+  background-color: aliceblue;
+  border-left: 1px solid lightgray;
+  width: auto;
+  height: 90%;
+}
+tr {
+  position: relative;
+}
+
+td {
+  text-align: center;
+  border-top: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  width: auto;
+  height: 10%;
+  padding-left: 0.1dvw;
+}
+
+.call-Btn {
+  width: 10%;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+.btn-td {
+  text-align: center;
+  background-color: rgb(188, 187, 187);
+
+  width: auto;
+  height: 10%;
+  padding-left: 0.1dvw;
+}

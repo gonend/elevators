@@ -1,0 +1,38 @@
+.btn_container {
+  height: 8vh;
+
+  width: 2px;
+  gap: 2%;
+}
+#red,
+#green,
+#arrive {
+  color: white;
+  font-size: 0.8vw;
+}
+#red {
+  background-color: red;
+}
+#green {
+  background-color: rgb(21, 191, 83);
+  cursor: pointer;
+  border: 1px solid rgb(21, 191, 83);
+  border-radius: 3px;
+  width: 4vw;
+}
+#arrive {
+  color: rgb(21, 191, 83);
+  border: 1px solid rgb(21, 191, 83);
+  background-color: white;
+}
+.numberOfElevators {
+  position: relative;
+  left: 20%;
+  font-size: 0.7vw;
+}
+.float {
+  float: cen;
+}
+.floor-Btn {
+  flex-direction: row;
+}
